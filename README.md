@@ -21,6 +21,8 @@ This project is a simple implementation of the classic Snake game using modern w
 ## Screenshots
 
 ![Gameplay Screenshot](snake game.png)
+![snake game](https://github.com/user-attachments/assets/353a98e6-b9c8-4e99-9da3-5f993e0db5ff)
+
 
 ## Built With
 
