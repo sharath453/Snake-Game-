@@ -19,8 +19,8 @@ A classic Snake game implemented using HTML, CSS, and JavaScript.
 This project is a simple implementation of the classic Snake game using modern web technologies. The player controls the snake to eat food, which makes the snake grow longer. The game ends when the snake collides with itself or the walls.
 
 ## Screenshots
-<br>![Gameplay Screenshot](snake-game.png)
-![snake game](snake game.png)
+<br><br>
+![snake game](https://github.com/user-attachments/assets/22801726-c5df-4a8e-9aae-6ae66752371b)
 <br>
 
 ## Built With
@@ -40,9 +40,11 @@ You need a modern web browser to run this game.
 ### Installation
 
 1. Clone the repo : 
-   git clone [https://github.com/your_username/snake-game.git](https://github.com/sharath453/Snake_Game.git)
+   git clone [https://github.com/sharath453/snake-game.git](https://github.com/sharath453/Snake_Game.git)
    
-Open the index.html file in your browser to start the game.
+2. Open the index.html file in your browser to start the game.
+3. Run the project in live server of prefered Browser
+   
 # Usage
 1. Use the arrow keys to control the direction of the snake.
 2. Try to eat the food to grow longer.
@@ -58,4 +60,4 @@ Open the index.html file in your browser to start the game.
 Email - alsharath66@gmail.com <br>
 linkedin - https://www.linkedin.com/in/sharath-a-l-877754249/
 
-# Project Link: [https://github.com/your_username/snake-game](https://github.com/sharath453/Snake_Game.git)
+# Project Link: [https://github.com/sharath453/snake-game.git](https://github.com/sharath453/Snake_Game.git)
