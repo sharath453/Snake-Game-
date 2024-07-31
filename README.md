@@ -19,10 +19,9 @@ A classic Snake game implemented using HTML, CSS, and JavaScript.
 This project is a simple implementation of the classic Snake game using modern web technologies. The player controls the snake to eat food, which makes the snake grow longer. The game ends when the snake collides with itself or the walls.
 
 ## Screenshots
-
-![Gameplay Screenshot](snake game.png)
+<br>
 ![snake game](https://github.com/user-attachments/assets/353a98e6-b9c8-4e99-9da3-5f993e0db5ff)
-
+<br>
 
 ## Built With
 
