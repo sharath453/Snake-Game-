@@ -39,7 +39,7 @@ You need a modern web browser to run this game.
 
 ### Installation
 
-1. Clone the repo :
+1. Clone the repo : ![Gameplay Screenshot](snake-game.png)
    git clone [https://github.com/your_username/snake-game.git](https://github.com/sharath453/Snake_Game.git)
    
 Open the index.html file in your browser to start the game.
