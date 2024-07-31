@@ -39,7 +39,7 @@ You need a modern web browser to run this game.
 ### Installation
 
 1. Clone the repo
-   git clone https://github.com/your_username/snake-game.git
+   git clone [https://github.com/your_username/snake-game.git](https://github.com/sharath453/Snake_Game.git)
    
 Open the index.html file in your browser to start the game.
 # Usage
@@ -54,7 +54,7 @@ Open the index.html file in your browser to start the game.
 5. Contributing
 
 # Contact
-Email - alsharath66@gmail.com
+Email - alsharath66@gmail.com <br>
 linkedin - https://www.linkedin.com/in/sharath-a-l-877754249/
 
-# Project Link: https://github.com/your_username/snake-game
+# Project Link: [https://github.com/your_username/snake-game](https://github.com/sharath453/Snake_Game.git)
