@@ -54,6 +54,7 @@ Open the index.html file in your browser to start the game.
 5. Contributing
 
 # Contact
-Your Name - alsharath66@gmail.com
+Email - alsharath66@gmail.com
+linkedin - https://www.linkedin.com/in/sharath-a-l-877754249/
 
 # Project Link: https://github.com/your_username/snake-game
